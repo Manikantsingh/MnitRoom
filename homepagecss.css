@@ -1,0 +1,65 @@
+*{
+    margin: auto;
+    
+}
+body{
+    
+    background-image: url('images/people3.jpg');
+}
+ #footer {
+	
+    float: right;
+    width: 100%;
+    margin-top:2px;
+      height:5%;
+	position:absolute;
+	bottom:0;
+	left:0;
+    border-top: 1px groove #ccc;
+    background-color: rgba(8, 1, 1, 0.92);
+}
+
+#footer_op{
+    float: right;
+    margin: 0px;
+    padding-right: 10px;
+}
+#footer_op ul li{
+    list-style: none;
+    display: inline;
+    padding-left: 20px;
+    color: white;
+    font-family:calibri; 
+}
+#footer_op li a{
+    
+    color:#4150c7;
+    text-decoration: none;
+}
+
+#name_site {
+    float:right;
+    font-family: calibri;
+    color: #3545c4;
+}
+
+#footer_mani {
+    width: 100%;
+    background-color:rgba(8, 1, 1, 0.92);
+}
+
+#mani li {
+    color: #3636a2;
+}
+.starter-template h1{
+    font-family: segoe ui light;
+    font-weight: normal;
+    color: white;
+    font-size: 56px;
+    
+}
+.starter-template p{
+    
+    font-family: segoe ui light;
+    color:#fff;
+}

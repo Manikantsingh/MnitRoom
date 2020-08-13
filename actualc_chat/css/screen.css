@@ -1,0 +1,23 @@
+@charset "utf-8";
+/*
+ * CSS Document
+ * Written by Ryan Yonzon
+ * http://ryan.rawswift.com/
+ */
+ 
+html, body {
+	margin:0px; /* FF hack: or we'll have double scrollbar showing on the browser */
+	overflow:hidden; /* hide browser's main scrollbar */
+   
+}
+
+#main_container a{
+    
+    font-size: 14px;
+    font-family: sans-serif;
+   padding: 0px;
+    margin-left: 0px;
+   text-decoration: none;
+    font-weight: lighter;
+    
+}

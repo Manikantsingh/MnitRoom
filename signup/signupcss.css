@@ -1,0 +1,30 @@
+body{
+    
+    background-color: rgba(255, 255, 255, 0.33);
+}
+#op {
+    margin-bottom: 40px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#wi {
+    width: 40%;
+}
+
+
+
+.button2 {
+    margin-top: 10px;
+    border: none;
+    display: block;
+    background-color: blue;
+    height: 40px;
+    width: 120px;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 5px;
+  	-webkit-transition: all 0.15s linear;
+	  -moz-transition: all 0.15s linear;
+	  transition: all 0.15s linear;
+}

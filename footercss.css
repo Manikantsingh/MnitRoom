@@ -1,0 +1,43 @@
+#footer {
+    float: right;
+    width: 100%;
+    margin-top:100px;
+    object-position: bottom; 
+    background-color: rgba(0, 0, 0, 0.77);
+}
+
+#footer_op{
+    float: right;
+    margin: 0px;
+    padding-right: 10px;
+}
+#footer_op ul li{
+    list-style: none;
+    display: inline;
+    padding-left: 20px;
+    color: white;
+    font-family:calibri; 
+}
+
+#name_site {
+    float:right;
+    font-family: calibri;
+    color: white;
+}
+
+
+
+div {
+    
+}
+
+#footer_mani {
+    width: 100%;
+    background-color: blue;
+}
+
+#mani li {
+    color: white;
+}
+
+
